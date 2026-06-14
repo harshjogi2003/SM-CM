@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/smcm.json
+*.log
+dev-err.txt
+dev-out.txt
+dev-log.txt
